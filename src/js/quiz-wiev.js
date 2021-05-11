@@ -48,7 +48,7 @@ export default class {
                 r: 2
             },
             {
-                q: "Która czynność, nie jest zakazana w Chinach?",
+                q: "Która czynność nie jest zakazana w Chinach?",
                 a: "Podróże w czasie",
                 b: "Jedzenie maku",
                 c: "Przytulanie drzew",
