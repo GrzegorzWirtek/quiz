@@ -13,7 +13,7 @@ export default class {
                 r: 1
             },
             {
-                q: `Słowo "bumerang" zpochodzi od "boo-mar-rang", co w języku aborygenów znaczy:`,
+                q: `Słowo "bumerang" pochodzi od "boo-mar-rang", co w języku aborygenów oznacza:`,
                 a: "Kij, który wraca",
                 b: "Latający nóż",
                 c: "Stary kieł słonia",
