@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+$font-size: 20px;
+$font-family: 'Roboto Condensed', sans-serif;
+$faint-color: #aaa;
+$hover-color: rgb(205, 206, 243);
+$checkbox-size: 30px;
+$checkbox-color-true: rgb(40, 167, 40);
+$checkbox-color-false: rgb(196, 7, 7);
+$breakpoints:(
+    mini: '(min-width: 300px)',
+    small: '(min-width: 400px)',
+    medium: '(min-width: 700px)',
+    large: '(min-width: 1024px)'
+);
+
+@mixin size-portrait ($breakpoint){
+    $size: map-get($breakpoints, $breakpoint);
+    @if($size){
+        @media (orientation:portrait) and #{$size}{
+            @content;
+        }
+    }
+}
+
+@mixin size-landscape ($breakpoint){
+    $size: map-get($breakpoints, $breakpoint);
+    @if($size){
+        @media (orientation:landscape) and #{$size}{
+            @content;
+        }
+    }
+}
+
+html{
+    font-family: $font-family;
+    font-size: $font-size;
+}
+
+
