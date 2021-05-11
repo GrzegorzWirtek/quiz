@@ -13,7 +13,7 @@ export default class {
                 r: 1
             },
             {
-                q: "Nazwa bumerang pochodzi z języka aborygenów (boo-mar-rang) i znaczy:",
+                q: `Słowo "bumerang" zpochodzi od "boo-mar-rang", co w języku aborygenów znaczy:`,
                 a: "Kij, który wraca",
                 b: "Latający nóż",
                 c: "Stary kieł słonia",
@@ -34,7 +34,7 @@ export default class {
                 r: 0
             },
             {
-                q: "Ferruccio Lamborghini, twórca kultowerj marki Lamborgini, początkowo był:",
+                q: "Ferruccio Lamborghini, twórca kultowej marki Lamborgini, początkowo był:",
                 a: "Kowalem",
                 b: "Pilotem",
                 c: "Producentem ciągników rolniczych",
@@ -76,14 +76,14 @@ export default class {
                 r: 0
             },
             {
-                q: "Najwyższy szczyt Malediwów ma:",
+                q: "Malediwy są najmniej górzystym krajem świata. Najwyższy szczyt Malediwów ma:",
                 a: "5,1 metra",
                 b: "13,2 metra",
                 c: "1,5 metra",
                 r: 0
             },
             {
-                q: "Ile procent ludzi jest leworęczna?",
+                q: "Jaki procent populacji stanowią osoby leworęczne?",
                 a: "2%",
                 b: "9%",
                 c: "13%",
@@ -98,14 +98,14 @@ export default class {
             },
             {
                 q: "Ile mięśni człowiek musi zaangażować do zmarszczenia brwi?",
-                a: "1",
+                a: "2",
                 b: "11",
                 c: "42",
                 r: 2
             },
             {
                 q: "Skąd się wziął napis HOLLYWOOD w Los Angeles?",
-                a: "Od fabryki opon stworzonej przez Marvina Holly'ego i Boba Wodd'a",
+                a: "Od fabryki opon stworzonej przez Marvina Holly'ego i Boba Wooda",
                 b: "Był reklamą domów wznoszonych powyżej (pierwotnie HOLLYWOODLAND)",
                 c: "Ostrzegał paralotniarzy o terenie porośniętym ostrokrzewem (holly wood - drewno ostrokrzewu)",
                 r: 1
