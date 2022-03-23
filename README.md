@@ -5,7 +5,7 @@ Simple web application in the form of a quiz. Created with vanila, object-orient
 ## General info
 
 Quiz application created during object oriented JavaScript, Webpack and Sass learning. The user has to answer 15 questions. The questions are displayed sequentially. At the end, the result is displayed and correct and incorrect answers are indicated.
-Visit page: [Quiz](https://grzegorzwirtek.github.io/quiz/)
+Visit page: **[Quiz](https://grzegorzwirtek.github.io/quiz/)**
 
 ## Technologies
 
@@ -34,7 +34,7 @@ Project is created with:
 
 ## Setup
 
-The page is deployed to gh-pages: [Quiz](https://grzegorzwirtek.github.io/quiz/)
+The page is deployed to gh-pages: **[Quiz](https://grzegorzwirtek.github.io/quiz/)**
 
 The project can be also run locally using npm (localhost:8080).
 
