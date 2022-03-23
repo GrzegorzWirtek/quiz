@@ -1,6 +1,6 @@
 # Quiz app
 
-Simple web application in the form of a quiz. Created with vanila, object-oriented JavaScript, HTML and CSS.
+Simple web application in the form of a quiz. Created with vanila, object-oriented JavaScript, HTML and SCSS.
 
 ## General info
 
@@ -12,7 +12,6 @@ Visit page: **[Quiz](https://grzegorzwirtek.github.io/quiz/)**
 Project is created with:
 
 - **HTML**
-- **CSS**
 - **SASS/SCSS**
 - **JavaScript**
 - **webpack** version 4.35.0
