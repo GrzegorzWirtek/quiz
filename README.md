@@ -12,7 +12,7 @@ Visit page: **[Quiz](https://grzegorzwirtek.github.io/quiz/)**
 Project is created with:
 
 - **HTML**
-- **SASS/SCSS**
+- **SCSS**
 - **JavaScript**
 - **webpack** version 4.35.0
 - **webpack-cli** version 3.3.5
